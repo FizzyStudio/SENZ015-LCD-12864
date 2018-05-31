@@ -18,7 +18,7 @@
 ### Specification
 
 - Operating Voltage: +3.3V ~ 5V
-- Controller: ST7921
+- Controller: ST7920
 - Background Color: blue
 - Pixels: 128 columns × 64 row
 - Scanning Rate: 60 frames per second
@@ -59,7 +59,7 @@
 ![](https://github.com/njustcjj/SENZ015-LCD-12864/blob/master/pic/SENZ015_connect.png "Connecting Diagram") 
 
 ##### Download the library
-- Download Arduino U8glib library [`here`](hettp://)
+- Download Arduino *U8glib* library [`here`](hettp://)
 
 
 #### Sample Code
