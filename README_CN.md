@@ -6,8 +6,9 @@
 
 > `中文` 请参考 [`这里`](https://github.com/njustcjj/SENZ015-LCD-12864/blob/master/README_CN.md)
 
-![](https://github.com/njustcjj/SENZ015-LCD-12864/blob/master/pic/SENZ015.jpg "SENZ015")
- 
+![](https://github.com/njustcjj/SENZ015-LCD-12864/blob/master/pic/SENZ015_Front.jpg "SENZ015_Front")
+![](https://github.com/njustcjj/SENZ015-LCD-12864/blob/master/pic/SENZ015_Back.jpg "SENZ015_Back")
+
 
 ### 产品介绍
 
@@ -61,14 +62,24 @@
 
 
 #### 支持的库文件
-- 通用*U8glib*库文件，点击[`下载`](http://)
+- 通用*U8glib*库文件，点击[`下载`](http://https://bintray.com/olikraus/u8glib/download_file?file_path=u8glib_arduino_v1.18.1.zip)
 
 
 ### 示例代码
 
-	//演示字符显示代码
+	//This code is to show "Hello World" with the COM mode
+	/*
+
+	Connect Pins as the following：
+
+	E(SCK)->10, R/W(MOSI)->11, RS(CS)->12;
+	VCC->3.3V, GND->GND,, BLA->+5V, BLK->GND;
+	PSB->GND, RST->High;
+
+	*/
+
 	#include "U8glib.h"
-	U8GLIB_ST7920_128X64_4X u8g(18, 16, 17);
+	U8GLIB_ST7920_128X64_4X u8g(10, 11, 12); 
 	void draw(void) {
 	  u8g.setFont(u8g_font_unifont);
 	  u8g.drawStr( 0, 22, "Hello World!");
@@ -85,6 +96,7 @@
 	    draw();
 		  } while( u8g.nextPage() );
 	}
+
 
 
 ### 购买[*SENZ015 LCD 12864*](https://www.ebay.com/).

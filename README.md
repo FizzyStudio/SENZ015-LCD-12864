@@ -6,7 +6,8 @@
 
 > For `Chinese`, please click [`here.`](https://github.com/njustcjj/SENZ015-LCD-12864/blob/master/README_CN.md)
 
-![](https://github.com/njustcjj/SENZ015-LCD-12864/blob/master/pic/SENZ015.jpg "SENZ015")
+![](https://github.com/njustcjj/SENZ015-LCD-12864/blob/master/pic/SENZ015_Front.jpg "SENZ015_Front")
+![](https://github.com/njustcjj/SENZ015-LCD-12864/blob/master/pic/SENZ015_Back.jpg "SENZ015_Back")
 
 
 ### Introduction
@@ -33,7 +34,7 @@
 
 ### Tutorial
 
-#### Wire Definition
+#### Pin Definition
 
 |Sensor pin|Ardunio Pin|Function Description|
 |-|:-:|-|
@@ -59,13 +60,23 @@
 ![](https://github.com/njustcjj/SENZ015-LCD-12864/blob/master/pic/SENZ015_connect.png "Connecting Diagram") 
 
 ##### Download the library
-- Download Arduino *U8glib* library [`here`](hettp://)
+- Download Arduino *U8glib* library [`here`](http://https://bintray.com/olikraus/u8glib/download_file?file_path=u8glib_arduino_v1.18.1.zip)
 
 
 #### Sample Code
 
 
-	//show the character as the sample
+	//This code is to show "Hello World" with the COM mode
+	/*
+
+	Connect Pins as the following：
+
+	E(SCK)->10, R/W(MOSI)->11, RS(CS)->12;
+	VCC->3.3V, GND->GND,, BLA->+5V, BLK->GND;
+	PSB->GND, RST->High;
+
+	*/
+
 	#include "U8glib.h"
 	U8GLIB_ST7920_128X64_4X u8g(18, 16, 17);
 	void draw(void) {
