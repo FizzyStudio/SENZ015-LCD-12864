@@ -2,12 +2,12 @@
 
 ###### 翻译
 
-> `英文` 请参考 [`这里`](https://github.com/njustcjj/SENZ015-LCD-12864/blob/master/README.md)
+> `英文` 请参考 [`这里`](https://github.com/FizzyStudio/SENZ015-LCD-12864/blob/master/README.md)
 
-> `中文` 请参考 [`这里`](https://github.com/njustcjj/SENZ015-LCD-12864/blob/master/README_CN.md)
+> `中文` 请参考 [`这里`](https://github.com/FizzyStudio/SENZ015-LCD-12864/blob/master/README_CN.md)
 
-![](https://github.com/njustcjj/SENZ015-LCD-12864/blob/master/pic/SENZ015_Front.jpg "SENZ015_Front")
-![](https://github.com/njustcjj/SENZ015-LCD-12864/blob/master/pic/SENZ015_Back.jpg "SENZ015_Back")
+![](https://github.com/FizzyStudio/SENZ015-LCD-12864/blob/master/pic/SENZ015_Front.jpg "SENZ015_Front")
+![](https://github.com/FizzyStudio/SENZ015-LCD-12864/blob/master/pic/SENZ015_Back.jpg "SENZ015_Back")
 
 
 ### 产品介绍
@@ -53,12 +53,12 @@
 |BLK|-|Back LED kathode, 0V|
 
 
-![](https://github.com/njustcjj/SENZ015-LCD-12864/blob/master/pic/SENZ015_pin.jpg "引脚定义") 
+![](https://github.com/FizzyStudio/SENZ015-LCD-12864/blob/master/pic/SENZ015_pin.jpg "引脚定义") 
 
 
 #### 连线图
 
-![](https://github.com/njustcjj/SENZ015-LCD-12864/blob/master/pic/SENZ015_connect.png "连线图") 
+![](https://github.com/FizzyStudio/SENZ015-LCD-12864/blob/master/pic/SENZ015_connect.png "连线图") 
 参考示例代码
 
 
