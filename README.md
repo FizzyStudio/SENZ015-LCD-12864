@@ -2,12 +2,12 @@
 
 ###### Translation
 
-> For `English`, please click [`here.`](https://github.com/njustcjj/SENZ015-LCD-12864/blob/master/README.md)
+> For `English`, please click [`here.`](https://github.com/FizzyStudio/SENZ015-LCD-12864/blob/master/README.md)
 
-> For `Chinese`, please click [`here.`](https://github.com/njustcjj/SENZ015-LCD-12864/blob/master/README_CN.md)
+> For `Chinese`, please click [`here.`](https://github.com/FizzyStudio/SENZ015-LCD-12864/blob/master/README_CN.md)
 
-![](https://github.com/njustcjj/SENZ015-LCD-12864/blob/master/pic/SENZ015_Front.jpg "SENZ015_Front")
-![](https://github.com/njustcjj/SENZ015-LCD-12864/blob/master/pic/SENZ015_Back.jpg "SENZ015_Back")
+![](https://github.com/FizzyStudio/SENZ015-LCD-12864/blob/master/pic/SENZ015_Front.jpg "SENZ015_Front")
+![](https://github.com/FizzyStudio/SENZ015-LCD-12864/blob/master/pic/SENZ015_Back.jpg "SENZ015_Back")
 
 
 ### Introduction
@@ -53,11 +53,11 @@
 |BLK|-|Back LED kathode, 0V|
 
 
-![](https://github.com/njustcjj/SENZ015-LCD-12864/blob/master/pic/SENZ015_pin.jpg "Pin Definition") 
+![](https://github.com/FizzyStudio/SENZ015-LCD-12864/blob/master/pic/SENZ015_pin.jpg "Pin Definition") 
 
 #### Connecting Diagram
 
-![](https://github.com/njustcjj/SENZ015-LCD-12864/blob/master/pic/SENZ015_connect.png "Connecting Diagram") 
+![](https://github.com/FizzyStudio/SENZ015-LCD-12864/blob/master/pic/SENZ015_connect.png "Connecting Diagram") 
 See sample code for reference.
 
 ##### Download the library
