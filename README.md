@@ -6,8 +6,7 @@
 
 > For `Chinese`, please click [`here.`](https://github.com/njustcjj/SENZ015-LCD-12864/blob/master/README_CN.md)
 
-![](https://github.com/njustcjj/SENZ015-LCD-12864/blob/master/pic/SENZ015_Front.jpg "SENZ015_Front")
-![](https://github.com/njustcjj/SENZ015-LCD-12864/blob/master/pic/SENZ015_Back.jpg "SENZ015_Back")
+![](https://github.com/njustcjj/SENZ015-LCD-12864/blob/master/pic/SENZ015_Front.jpg "SENZ015_Front")![](https://github.com/njustcjj/SENZ015-LCD-12864/blob/master/pic/SENZ015_Back.jpg "SENZ015_Back")
 
 
 ### Introduction
