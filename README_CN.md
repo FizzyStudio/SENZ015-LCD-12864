@@ -59,6 +59,7 @@
 #### 连线图
 
 ![](https://github.com/njustcjj/SENZ015-LCD-12864/blob/master/pic/SENZ015_connect.png "连线图") 
+参考示例代码
 
 
 #### 支持的库文件

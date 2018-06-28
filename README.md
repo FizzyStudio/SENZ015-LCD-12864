@@ -6,7 +6,8 @@
 
 > For `Chinese`, please click [`here.`](https://github.com/njustcjj/SENZ015-LCD-12864/blob/master/README_CN.md)
 
-![](https://github.com/njustcjj/SENZ015-LCD-12864/blob/master/pic/SENZ015_Front.jpg "SENZ015_Front")![](https://github.com/njustcjj/SENZ015-LCD-12864/blob/master/pic/SENZ015_Back.jpg "SENZ015_Back")
+![](https://github.com/njustcjj/SENZ015-LCD-12864/blob/master/pic/SENZ015_Front.jpg "SENZ015_Front")
+![](https://github.com/njustcjj/SENZ015-LCD-12864/blob/master/pic/SENZ015_Back.jpg "SENZ015_Back")
 
 
 ### Introduction
@@ -57,6 +58,7 @@
 #### Connecting Diagram
 
 ![](https://github.com/njustcjj/SENZ015-LCD-12864/blob/master/pic/SENZ015_connect.png "Connecting Diagram") 
+See sample code for reference.
 
 ##### Download the library
 - Download Arduino *U8glib* library [`here`](http://https://bintray.com/olikraus/u8glib/download_file?file_path=u8glib_arduino_v1.18.1.zip)
